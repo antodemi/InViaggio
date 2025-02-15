@@ -1,0 +1,9 @@
+h1 {color:white ; font-family: 'Times New Roman'; text-align: center; background-color: brown;}
+body{background-color: rgba(151, 26, 26, 0.3) ; font-family: 'Times New Roman'; color: black;}
+.div1{text-align: center;}
+.div2{float:left; width:40%;}
+.div3{float:right; width:40%;}
+.div4{float:right; width:55%;}
+.div5{float:right;width:70%;}
+.img1{width: 300px;}
+.img2{width: 500px;}
